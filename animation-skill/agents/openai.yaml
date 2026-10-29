@@ -1,0 +1,7 @@
+interface:
+  display_name: "动画 skill"
+  short_description: "四步动画资产，联动物种体态、个性妆发与生活空间道具，保剧情与质量"
+  default_prompt: "使用 $animation-skill 按正式剧本、人设与指定画风完成本次授权的剧本检查或角色场景道具资产，联动设计物种体态、个性妆发、生活空间与工具，保留剧情功能、身份连续性和所需准确英文，并实际验图。"
+
+policy:
+  allow_implicit_invocation: true

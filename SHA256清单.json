@@ -1,0 +1,35 @@
+{
+  "version": "0.8.1-episode-dialogue-completeness-20261026",
+  "director_module": "removed",
+  "files": {
+    "SKILL.md": "26cdc3b51982a2ca7d2a2b5a947611db6cf1876f69fb516176eee09bf1656c4e",
+    "agents/openai.yaml": "ebf90ec5e73f2df85e6c466263e51032cf935f0aad389d309ce305b74e7a4bd5",
+    "references/人物选角与跨剧差异化.md": "0e4480747da33e06c65cbffaf769830ca9879514f68ffcbb75d42b0d33ed775d",
+    "references/内容安全与叙事边界.md": "de424716cee0c57d6f72f091b5a98cac096009046d318c8105727f2eb8f23b93",
+    "references/内置参考生成与编辑.md": "21cea46b4b622032e76e68b5f2cc2fdda3aa6b4c99844dbed406bc526b0b3f2c",
+    "references/内置提示词与执行.md": "dfb7cdffae7609b942f651bf3c1474a5fb86fe7543f086db73d1ee411a892150",
+    "references/制作前参考研究与质量对标.md": "3166eea4bf5cb8b2da021918d9f04891fc0f7e1db0bb2508d10726bd6d5f73ec",
+    "references/动画可制作性.md": "aaef6966469d7967a6a3d379939056a3be032f1ae307b2d8d6046f4688b46670",
+    "references/场景资产生成规则.md": "4f617387018431094aae3c8888eab0aed976bbe70841feaf197f1b47bcfd3a7e",
+    "references/场景道具英文文字规则.md": "4ad94eccd05ccdade416c9837791ce5889858e45f38e8a3fbe3f3ac6a0db7f7c",
+    "references/步骤1校对与最小修订规则.md": "bcc5ec264d7672368f838ba144935b81d7ded243b1d4dd9c53403440fbeb8487",
+    "references/步骤1画风与色光一致性.md": "0f66a79bd9d15114d45c45848efed3f147dfb6043289b9c1a3dc64a4b896d0f8",
+    "references/物种生活方式与世界联动设计.md": "3f13b828156238c61fa95db5764e89d7d17a1ac2fd67aecf5f0fc162fbb026b0",
+    "references/生成记录与恢复.md": "51b3d44ce6de28c3d8dbb7fd72f09bc18ce563c6d10d4821439c1d81aa15adb8",
+    "references/色光与材质基准.md": "d44f2b7d8dcb4b1d80c4a30e3565d679873a53be31d56e6f3be289d6809bd6e5",
+    "references/蓝本继承与动画差异.md": "fdb37e665f283edd36319e939a39329e6264aaebfb5f00b068b97ae8c6d1248c",
+    "references/角色剧情驱动与造型差异.md": "79197558b80bdf1f478b26a6179180d6eeee1964b113810e218f138d718b6f95",
+    "references/角色资产生成规则.md": "b2a830babc9c5fae7d1ad993eac1029f842144f4a22bb7dbc45e885459b98abe",
+    "references/资产反馈修订与全套复检.md": "254d967805a30c7075fed980b56518eabbb9b69ebc54cf7616faba3162125186",
+    "references/资产规划与按需生成规则.md": "f3277ee00d66f63b9813177a01528613991aafb8073148c63711de0c906ba7aa",
+    "references/迪士尼皮克斯作品匹配与近期工艺.md": "b6d677e86bbfcb016906d709ebd03f9dbebb60f886781c60d746d23f9de0ba9d",
+    "references/道具资产生成规则.md": "94c83481af2a33a6c026a850aab4e5e007ca14e842134dd524bc68e56044ae8d"
+  },
+  "delivery_files": {
+    "使用与交付说明.md": "90abae45d638104d896a7d6e416dc0168a619a3a1d04ee85dceddda3d4637d3f",
+    "复制给其他Codex的导入指令.txt": "fbb390fe17a1eee31d069de20687b8060f5b2d98bc515165873b92d5d39188d0",
+    "离线情境走查.md": "a69978c12288be704b3d80207c1cb3161b114096d0ee4235f0bf88d05cc1f569",
+    "离线核验记录.json": "31e2a410b4456c1f3d4cd90a78e0bc5ec3cf46ed9efacf27e37abe7cc15db997",
+    "蓝本来源哈希.json": "4ebb910edec7ea94df3194c1d1069932cf9015d653c08616dcbd20a46502f487"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_label": "用户上传的tiktok-custom-drama-production有效运行文件，不含历史backups",
+  "source_main_sha256": "a73ef1fa6c3f991866eae6737db13f8c8af1df2a2b2ef2f3fe125f0d27825c1b",
+  "files": {
+    "SKILL.md": "a73ef1fa6c3f991866eae6737db13f8c8af1df2a2b2ef2f3fe125f0d27825c1b",
+    "agents/openai.yaml": "059a940718c84fc7fca887fa196aa68419114baf912153c5d880dbd033983d51",
+    "references/人物选角与跨剧差异化.md": "ec660732c130d5776a012042aca20fb8888f04c7ddd8047d7f280a951c5b6c0b",
+    "references/内容安全与叙事边界.md": "de424716cee0c57d6f72f091b5a98cac096009046d318c8105727f2eb8f23b93",
+    "references/场景资产生成规则.md": "4c694faec03c5af45cca49be680f437958ce6364dcdcd70af9dade1a42373250",
+    "references/步骤1校对与最小修订规则.md": "240a6be7db6920346a69d68215630c5325d7ba568225ed7f626cc6aa504d49eb",
+    "references/角色资产生成规则.md": "adc0a431cddf5f7f7757d6eeb1a629b336ae112cf9e555229b55335ff6b89712",
+    "references/资产规划与按需生成规则.md": "227f6397943b89959ccca0b124c65aface5bedbf5ea80420e8224e6b38b0d083",
+    "references/道具资产生成规则.md": "96ee8ea84d8b849395b89d2cbb4c5654d5693c5029c3d09daa722111ff32def9"
+  }
+}

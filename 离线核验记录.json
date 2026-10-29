@@ -1,0 +1,25 @@
+{
+  "version": "0.8.1-episode-dialogue-completeness-20261026",
+  "director_module": "removed",
+  "checked_at": "2026-10-26T22:43:24.746140+08:00",
+  "runtime_files": 22,
+  "changed_files": [
+    "SKILL.md",
+    "references/步骤1校对与最小修订规则.md",
+    "references/蓝本继承与动画差异.md"
+  ],
+  "unchanged_files": 19,
+  "added_or_removed_runtime_files": [],
+  "relative_links": 113,
+  "broken_links": [],
+  "official_quick_validate": "Skill is valid!",
+  "original_proofreading_rules_preserved_with_insertions": true,
+  "management_12_and_initialization_unchanged": true,
+  "four_steps_builtin_generation_English_policy_and_UI_preserved": true,
+  "new_scripts": false,
+  "manual_text_scenarios": 12,
+  "production_scripts_counted_or_rewritten": false,
+  "image_or_video_calls": 0,
+  "public_publish": false,
+  "installed_matches_source": true
+}
