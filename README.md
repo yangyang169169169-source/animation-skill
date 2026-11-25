@@ -1,17 +1,7 @@
 # 动画 Skill
 
-版本：0.8.1-episode-dialogue-completeness-20261026。GitHub 分享整理日期：2026-10-29。
+版本 `0.8.2-character-board-20261125`，公开规则版。入口为 [SKILL.md](animation-skill/SKILL.md)。
 
-入口：[SKILL.md](animation-skill/SKILL.md)。包含完整运行规则、agents 配置和 references 参考文件。
+新项目完整定妆图为横版 16:9 白底三栏四视图。左栏正面全身，中栏 45° 三分之四全身，两张仅局部虚化面部。右栏上方为清晰正脸，下方为清晰 45° 三分之四侧转近景。发型轮廓、身形、衣装及配饰应清楚。同角色同造型的四视图交付为一张常规定妆图，身份锁定和视频参考直接使用整板。动画非人角色按实际面部、表情或身份结构取景，无可辨面部的完整形态保持清楚。
 
-## 下载与安装
-
-在 GitHub 页面选择 **Code → Download ZIP**，解压后将本仓库的 `animation-skill/` 子目录作为 Skill 根目录。复制到目标机的个人 skills 目录，并保留整个目录结构；内部引用以 SKILL.md 所在目录为基准。
-
-安装前备份目标机已有同名 Skill，并核对个人定制；只替换该 Skill，不覆盖其他 Skill、AGENTS.md、账号配置或项目文件。动画包原有导入说明与核验记录完整保留，文中的“未建立公开托管”属于来源包发布前的历史说明；本仓库是此次新增的 GitHub 分享副本。
-
-## 文件完整性
-
-`SOURCE_SHA256.json` 记录全部来源文件的 SHA-256；来源正文保持原始字节。未收录历史 backups 或 macOS .DS_Store。此分享整理未进行运行逻辑修改。
-
-安装或下载不自动启动剧本处理、资产生成、视频制作、收费或其他远端操作；实际使用仍以使用者当次指令为准。
+从[本次 Release](https://github.com/yangyang169169169-source/animation-skill/releases/tag/v2026.11.25.1)下载 ZIP 和 SHA-256 校验文件。安装前核对 ZIP 与包内的 `FILES.sha256`，备份现有版本并保留本机配置。安装包内含 SKILL.md 的 `animation-skill/` 子目录。可复制的更新指令见[导入指令](复制给其他Codex的导入指令.txt)。
